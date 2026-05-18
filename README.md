@@ -1,3 +1,8 @@
+https://huggingface.co/spaces/gorgeus/E-Commerce_Customer_Segmentation
+https://www.kaggle.com/code/gorgeusgirl/e-commerce-customer-segmentation
+
+
+
 # 🎯 14. Proje: E-Commerce Customer Segmentation (Müşteri Segmentasyonu)
 
 Bu proje, müşteri demografilerini ve harcama alışkanlıklarını analiz ederek alt kırılımdaki homojen hedef kitleleri ve gizli alışveriş kalıplarını keşfeden bir **Gözetimsiz Öğrenme (Unsupervised Learning)** projesidir.
